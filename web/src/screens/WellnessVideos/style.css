@@ -1,0 +1,561 @@
+.wellness-videos {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.wellness-videos .div-8 {
+  background-color: #ffffff;
+  height: 3501px;
+  position: relative;
+  width: 1728px;
+}
+
+.wellness-videos .overlap-52 {
+  background-color: #ffbf00;
+  height: 147px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.wellness-videos .about-us-6 {
+  left: 913px !important;
+  position: absolute !important;
+  top: 54px !important;
+}
+
+.wellness-videos .frame-59 {
+  left: 1344px !important;
+  position: absolute !important;
+  top: 30px !important;
+}
+
+.wellness-videos .contact-us-6 {
+  left: 1105px !important;
+  position: absolute !important;
+  top: 30px !important;
+}
+
+.wellness-videos .notification-bell-3 {
+  height: 48px !important;
+  left: 1577px !important;
+  position: absolute !important;
+  top: 49px !important;
+  width: 54px !important;
+}
+
+.wellness-videos .frame-60 {
+  background-color: #5bcb5e63;
+  height: 441px;
+  left: 0;
+  position: absolute;
+  top: 3060px;
+  width: 1728px;
+}
+
+.wellness-videos .overlap-group-15 {
+  background-image: url(https://cdn.animaapp.com/projects/66360000b7f6a62466cc2614/releases/66366da0a813bc856b97145b/img/unsplash-4zaq5xy5m-c.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 440px;
+  position: relative;
+}
+
+.wellness-videos .overlap-53 {
+  height: 110px;
+  left: 937px;
+  position: absolute;
+  top: 161px;
+  width: 659px;
+}
+
+.wellness-videos .phone-6 {
+  height: 30px;
+  left: 16px;
+  position: absolute;
+  top: 76px;
+  width: 30px;
+}
+
+.wellness-videos .overlap-54 {
+  height: 110px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 659px;
+}
+
+.wellness-videos .text-wrapper-135 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 2.8px;
+  line-height: 75.2px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.wellness-videos .element-8 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 62px;
+  letter-spacing: 2.52px;
+  line-height: 67.7px;
+  position: absolute;
+  top: 59px;
+  white-space: nowrap;
+  width: 597px;
+}
+
+.wellness-videos .mail-6 {
+  height: 23px;
+  left: 953px;
+  position: absolute;
+  top: 301px;
+  width: 32px;
+}
+
+.wellness-videos .text-wrapper-136 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 937px;
+  letter-spacing: 2.8px;
+  line-height: 75.2px;
+  position: absolute;
+  top: 66px;
+  white-space: nowrap;
+}
+
+.wellness-videos .text-wrapper-137 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 219px;
+  letter-spacing: 2.24px;
+  line-height: 60.2px;
+  position: absolute;
+  top: 66px;
+  white-space: nowrap;
+  width: 351px;
+}
+
+.wellness-videos .text-wrapper-138 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 189px;
+  letter-spacing: 1.68px;
+  line-height: 45.1px;
+  position: absolute;
+  top: 133px;
+  white-space: nowrap;
+}
+
+.wellness-videos .text-wrapper-139 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 74px;
+  letter-spacing: 1.68px;
+  line-height: 45.1px;
+  position: absolute;
+  top: 201px;
+  white-space: nowrap;
+}
+
+.wellness-videos .text-wrapper-140 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 76px;
+  letter-spacing: 1.68px;
+  line-height: 45.1px;
+  position: absolute;
+  top: 281px;
+  white-space: nowrap;
+}
+
+.wellness-videos .rectangle-51 {
+  background-color: #ffffff;
+  height: 66px;
+  left: 283px;
+  position: absolute;
+  top: 192px;
+  width: 528px;
+}
+
+.wellness-videos .rectangle-52 {
+  background-color: #ffffff;
+  height: 66px;
+  left: 283px;
+  position: absolute;
+  top: 272px;
+  width: 528px;
+}
+
+.wellness-videos .social-icons-11 {
+  height: 70px;
+  left: 1243px;
+  position: absolute;
+  top: 70px;
+  width: 70px;
+}
+
+.wellness-videos .social-icons-12 {
+  height: 70px;
+  left: 1165px;
+  position: absolute;
+  top: 70px;
+  width: 70px;
+}
+
+.wellness-videos .support-6 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 1004px;
+  letter-spacing: 2.52px;
+  line-height: 67.7px;
+  position: absolute;
+  top: 278px;
+  white-space: nowrap;
+}
+
+.wellness-videos .overlap-55 {
+  height: 70px;
+  left: 413px;
+  position: absolute;
+  top: 352px;
+  width: 270px;
+}
+
+.wellness-videos .component-22 {
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 270px;
+}
+
+.wellness-videos .FAB-extended-7 {
+  background-color: #5bcb5e !important;
+  display: flex !important;
+  height: 70px !important;
+  width: 270px !important;
+}
+
+.wellness-videos .text-wrapper-141 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 85px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.wellness-videos .overlap-56 {
+  background-color: #5bcb5e8f;
+  height: 210px;
+  left: 115px;
+  position: absolute;
+  top: 243px;
+  width: 1478px;
+}
+
+.wellness-videos .text-wrapper-142 {
+  color: #f65e00;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 96px;
+  font-weight: 700;
+  left: 182px;
+  letter-spacing: 24.96px;
+  line-height: 180.5px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.wellness-videos .icons-arrow-right-24px-2 {
+  height: 124px !important;
+  left: 1555px !important;
+  position: absolute !important;
+  top: 2867px !important;
+  width: 124px !important;
+}
+
+.wellness-videos .icons-arrow-left-24px-1 {
+  height: 124px !important;
+  left: 53px !important;
+  position: absolute !important;
+  top: 2868px !important;
+  width: 124px !important;
+}
+
+.wellness-videos .overlap-57 {
+  background-color: #d9d9d9;
+  height: 704px;
+  left: 115px;
+  position: absolute;
+  top: 524px;
+  width: 715px;
+}
+
+.wellness-videos .frame-61 {
+  background-color: #5bcb5e;
+  height: 324px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 363px;
+  width: 715px;
+}
+
+.wellness-videos .overlap-group-16 {
+  height: 332px;
+  left: 158px;
+  position: relative;
+  top: -1px;
+  width: 369px;
+}
+
+.wellness-videos .text-wrapper-143 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 96px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 1.92px;
+  line-height: 180.5px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 152px;
+  white-space: nowrap;
+}
+
+.wellness-videos .title-wrapper-143 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 96px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 1.92px;
+  line-height: 180.5px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 499px;
+  white-space: nowrap;
+}
+
+.wellness-videos .title-wrapper-144 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 96px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 1.92px;
+  line-height: 180.5px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 1499px;
+  white-space: nowrap;
+}
+
+.wellness-videos .title-wrapper-145 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 96px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 1.92px;
+  line-height: 180.5px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 2499px;
+  white-space: nowrap;
+}
+
+.wellness-videos .text-wrapper-144 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 96px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 1.92px;
+  line-height: 180.5px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.wellness-videos .unsplash-igfigponv {
+  height: 363px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 715px;
+}
+
+.wellness-videos .overlap-58 {
+  height: 711px;
+  left: 122px;
+  position: absolute;
+  top: 1296px;
+  width: 716px;
+}
+
+.wellness-videos .frame-62 {
+  background-color: #d9d9d9;
+  height: 704px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 716px;
+}
+
+.wellness-videos .frame-left-2 {
+  background-color: #5bcb5e;
+  height: 322px;
+  overflow: hidden;
+  position: relative;
+  top: 378px;
+}
+
+.wellness-videos .frame-63 {
+  background-color: #5bcb5e;
+  height: 322px;
+  overflow: hidden;
+  position: relative;
+  top: 378px;
+}
+
+.wellness-videos .overlap-group-17 {
+  height: 332px;
+  left: 157px;
+  position: relative;
+  top: -1px;
+  width: 369px;
+}
+
+.wellness-videos .overlap-group-left {
+  height: 332px;
+  left: 157px;
+  position: relative;
+  top: -1px;
+  width: 369px;
+}
+
+.wellness-videos .unsplash-ckwunacxzc {
+  height: 385px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 715px;
+}
+
+.wellness-videos .overlap-59 {
+  height: 704px;
+  left: 122px;
+  position: absolute;
+  top: 2110px;
+  width: 716px;
+}
+
+.wellness-videos .overlap-left {
+  height: 704px;
+  left: 122px;
+  position: absolute;
+  /* top: 2110px; */
+  top: 700px;
+  width: 716px;
+}
+
+.wellness-videos .frame-left-1 {
+  background-color: #d9d9d9;
+  height: 704px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 716px;
+}
+
+.wellness-videos .frame-64 {
+  background-color: #d9d9d9;
+  height: 704px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 716px;
+}
+
+.wellness-videos .unsplash-gvfrka-eq {
+  height: 376px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 705px;
+}
+
+.wellness-videos .frame-right {
+  background-color: #d9d9d9;
+  height: 704px;
+  left: 870px;
+  position: absolute;
+  /* top: 522px; each 780 px add */
+  width: 716px;
+}
+
+.wellness-videos .frame-65 {
+  background-color: #d9d9d9;
+  height: 704px;
+  left: 870px;
+  position: absolute;
+  top: 522px;
+  width: 716px;
+}
+
+.wellness-videos .frame-66 {
+  background-color: #d9d9d9;
+  height: 704px;
+  left: 878px;
+  position: absolute;
+  top: 1301px;
+  width: 715px;
+}
+
+.wellness-videos .frame-67 {
+  background-color: #d9d9d9;
+  height: 704px;
+  left: 878px;
+  position: absolute;
+  top: 2108px;
+  width: 715px;
+}

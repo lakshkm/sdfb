@@ -1,0 +1,1 @@
+export { PlatformInstagramColorOriginal } from "./PlatformInstagramColorOriginal";

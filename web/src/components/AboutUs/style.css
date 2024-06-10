@@ -1,0 +1,31 @@
+.about-us {
+  height: 38px;
+  position: relative;
+  width: 133px;
+}
+
+.about-us .text-wrapper {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 32px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.about-us.property-1-variant-3 {
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.about-us.property-1-variant-2 {
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.about-us.property-1-variant-3 .text-wrapper {
+  text-decoration: underline;
+}

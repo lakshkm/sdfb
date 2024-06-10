@@ -1,0 +1,38 @@
+.component-73 {
+  border-radius: 116px;
+  display: block;
+  height: 237px;
+  position: relative;
+  width: 70.7%;
+}
+
+.component-73 .join-online-session {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 97px;
+  letter-spacing: 3.84px;
+  line-height: 193px;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.component-73.property-1-22-default {
+  background-color: #f65e00a1;
+}
+
+.component-73.property-1-22-variant-3 {
+  background-color: #f65e00a1;
+}
+
+.component-73.property-1-22-variant-2 {
+  background-color: #f65e00d1;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component-73.property-1-22-variant-3 .join-online-session {
+  text-decoration: underline;
+}

@@ -1,0 +1,131 @@
+.screen-4 {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen-4 .macbook-pro-3 {
+  background-color: #ffffff;
+  height: 4803px;
+  position: relative;
+  width: 100%;
+}
+
+.screen-4 .overlap-14 {
+  background-image: url(https://cdn.animaapp.com/projects/66360000b7f6a62466cc2614/releases/66366da0a813bc856b97145b/img/old1-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 780px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.screen-4 .rectangle-30 {
+  background-color: #f65e00;
+  height: 37px;
+  position: relative;
+  top: 743px;
+}
+
+.screen-4 .overlap-15 {
+  height: 3471px;
+  left: 4.34%;
+  position: absolute;
+  top: 898px;
+  width: 93.75%;
+}
+
+.screen-4 .frame-21 {
+  background-color: #5bcb5e;
+  height: 3471px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 90.61%;
+}
+
+.screen-4 .overlap-16 {
+  height: 663px;
+  left: 2.8%;
+  position: absolute;
+  top: 79px;
+  width: 84.6%;
+}
+
+.screen-4 .frame-22 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 495px;
+  width: 84.6%;
+}
+
+.screen-4 .text-wrapper-66 {
+  color: #0000005c;
+  font-family: "Roboto", Helvetica;
+  font-size: 55px;
+  font-weight: 700;
+  left: 3.81%;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 51px;
+  white-space: nowrap;
+}
+
+.screen-4 .property-1-default-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.screen-4 .component-4 {
+  background-color: #89d98b !important;
+}
+
+.screen-4 .frame-23 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  height: 168px;
+  left: 2.8%;
+  position: absolute;
+  top: 1638px;
+  width: 84.6%;
+}
+
+.screen-4 .overlap-17 {
+  height: 663px;
+  left: 2.8%;
+  position: absolute;
+  top: 1898px;
+  width: 84.6%;
+}
+
+.screen-4 .overlap-18 {
+  height: 663px;
+  left: 2.8%;
+  position: absolute;
+  top: 2653px;
+  width: 84.6%;
+}
+
+.screen-4 .component-63-instance {
+  left: 2.8% !important;
+  position: absolute !important;
+  top: 792px !important;
+}
+
+.screen-4 .frame-34256-instance {
+  background-color: #f65e00 !important;
+  left: 57.52% !important;
+  position: absolute !important;
+  top: 4426px !important;
+}

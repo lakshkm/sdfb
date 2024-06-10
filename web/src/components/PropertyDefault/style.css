@@ -1,0 +1,109 @@
+.property-default {
+  height: 572px;
+  width: 1462px;
+}
+
+.property-default .overlap-group {
+  height: 495px;
+  position: relative;
+}
+
+.property-default .gender-wrapper {
+  background-color: #ffd147;
+  height: 157px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1462px;
+}
+
+.property-default .gender {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 64px;
+  font-weight: 800;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+  white-space: nowrap;
+}
+
+.property-default .div {
+  background-color: #ffffff;
+  height: 339px;
+  left: 0;
+  position: absolute;
+  top: 156px;
+  width: 1462px;
+}
+
+.property-default .male {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 112px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 60px;
+  white-space: nowrap;
+}
+
+.property-default .female {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 112px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 150px;
+  white-space: nowrap;
+}
+
+.property-default .prefer-not-to-say {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 112px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 244px;
+  white-space: nowrap;
+}
+
+.property-default .ellipse {
+  background-color: #d9d9d9;
+  border-radius: 18px;
+  height: 36px;
+  left: 49px;
+  position: absolute;
+  top: 67px;
+  width: 36px;
+}
+
+.property-default .ellipse-2 {
+  background-color: #d9d9d9;
+  border-radius: 18px;
+  height: 36px;
+  left: 49px;
+  position: absolute;
+  top: 145px;
+  width: 36px;
+}
+
+.property-default .ellipse-3 {
+  background-color: #d9d9d9;
+  border-radius: 18px;
+  height: 36px;
+  left: 49px;
+  position: absolute;
+  top: 247px;
+  width: 36px;
+}

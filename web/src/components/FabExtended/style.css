@@ -1,0 +1,53 @@
+.FAB-extended {
+  align-items: flex-start;
+  border-radius: 24px;
+  display: inline-flex;
+  gap: 12px;
+  position: relative;
+}
+
+.FAB-extended .button {
+  font-family: var(--android-subtitle-2-font-family);
+  font-size: var(--android-subtitle-2-font-size);
+  font-style: var(--android-subtitle-2-font-style);
+  font-weight: var(--android-subtitle-2-font-weight);
+  letter-spacing: var(--android-subtitle-2-letter-spacing);
+  line-height: var(--android-subtitle-2-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.FAB-extended .leading-icon {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.FAB-extended.outlined-false {
+  background-color: var(--black);
+}
+
+.FAB-extended.outlined-true {
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--black);
+}
+
+.FAB-extended.leading-icon-false {
+  padding: 12px 20px;
+}
+
+.FAB-extended.leading-icon-true {
+  padding: 12px 20px 12px 12px;
+}
+
+.FAB-extended.outlined-false .button {
+  color: var(--white);
+  margin-top: -1px;
+}
+
+.FAB-extended.outlined-true .button {
+  color: var(--black);
+  margin-top: -2px;
+}

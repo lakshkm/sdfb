@@ -1,0 +1,36 @@
+.contact-us {
+  display: block;
+  height: 86px;
+  position: relative;
+  width: 233px;
+}
+
+.contact-us .text-wrapper-3 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 32px;
+  font-weight: 800;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.contact-us.property-1-2-default {
+  background-color: #ffffff03;
+}
+
+.contact-us.property-1-2-variant-3 {
+  background-color: #ffffff03;
+}
+
+.contact-us.property-1-2-variant-3 .text-wrapper-3 {
+  text-decoration: underline;
+}
+
+.contact-us.property-1-2-variant-2 .text-wrapper-3 {
+  text-shadow: 0px 4px 4px #00000040;
+}

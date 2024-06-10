@@ -1,0 +1,389 @@
+.landing-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page .div-7 {
+  background-color: #ffffff;
+  height: 3602px;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page .overlap-45 {
+  background-color: #ffbf00;
+  height: 147px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.landing-page .about-us-5 {
+  left: 53% !important;
+  position: absolute !important;
+  top: 54px !important;
+}
+
+.landing-page .overlap-46 {
+  height: 86px;
+  left: 77%;
+  position: absolute;
+  top: 30px;
+  width: 16%;
+}
+
+.landing-page .frame-57 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.landing-page .notification-bell-2 {
+  height: 48px !important;
+  left: 13% !important;
+  position: absolute !important;
+  top: 19px !important;
+  width: 3% !important;
+}
+
+.landing-page .contact-us-5 {
+  left: 63% !important;
+  position: absolute !important;
+  top: 30px !important;
+}
+
+.landing-page .frame-58 {
+  background-color: #5bcb5e63;
+  height: 441px;
+  left: 0;
+  position: absolute;
+  top: 3161px;
+  width: 100%;
+}
+
+.landing-page .overlap-group-14 {
+  background-image: url(https://cdn.animaapp.com/projects/66360000b7f6a62466cc2614/releases/66366da0a813bc856b97145b/img/unsplash-4zaq5xy5m-c.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 440px;
+  position: relative;
+}
+
+.landing-page .overlap-47 {
+  height: 110px;
+  left: 54%;
+  position: absolute;
+  top: 161px;
+  width: 38%;
+}
+
+.landing-page .phone-5 {
+  height: 30px;
+  left: 1%;
+  position: absolute;
+  top: 76px;
+  width: 1.7%;
+}
+
+.landing-page .overlap-48 {
+  height: 110px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 38%;
+}
+
+.landing-page .text-wrapper-124 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 2.8px;
+  line-height: 75.2px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landing-page .element-7 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 4%;
+  letter-spacing: 2.52px;
+  line-height: 67.7px;
+  position: absolute;
+  top: 59px;
+  white-space: nowrap;
+  width: 34.5%;
+}
+
+.landing-page .mail-5 {
+  height: 23px;
+  left: 55%;
+  position: absolute;
+  top: 301px;
+  width: 1.8%;
+}
+
+.landing-page .text-wrapper-125 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 54%;
+  letter-spacing: 2.8px;
+  line-height: 75.2px;
+  position: absolute;
+  top: 66px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-126 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 14%;
+  letter-spacing: 2.24px;
+  line-height: 60.2px;
+  position: absolute;
+  top: 66px;
+  white-space: nowrap;
+  width: 20%;
+}
+
+.landing-page .text-wrapper-127 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 11%;
+  letter-spacing: 1.68px;
+  line-height: 45.1px;
+  position: absolute;
+  top: 133px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-128 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 4%;
+  letter-spacing: 1.68px;
+  line-height: 45.1px;
+  position: absolute;
+  top: 201px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-129 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 4%;
+  letter-spacing: 1.68px;
+  line-height: 45.1px;
+  position: absolute;
+  top: 281px;
+  white-space: nowrap;
+}
+
+.landing-page .rectangle-48 {
+  background-color: #ffffff;
+  height: 66px;
+  left: 17%;
+  position: absolute;
+  top: 192px;
+  width: 30.6%;
+}
+
+.landing-page .rectangle-49 {
+  background-color: #ffffff;
+  height: 66px;
+  left: 17%;
+  position: absolute;
+  top: 272px;
+  width: 30.6%;
+}
+
+.landing-page .social-icons-9 {
+  height: 70px;
+  left: 72%;
+  position: absolute;
+  top: 70px;
+  width: 4%;
+}
+
+.landing-page .social-icons-10 {
+  height: 70px;
+  left: 67%;
+  position: absolute;
+  top: 70px;
+  width: 4%;
+}
+
+.landing-page .support-5 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 58%;
+  letter-spacing: 2.52px;
+  line-height: 67.7px;
+  position: absolute;
+  top: 278px;
+  white-space: nowrap;
+}
+
+.landing-page .overlap-49 {
+  height: 70px;
+  left: 24%;
+  position: absolute;
+  top: 352px;
+  width: 15.6%;
+}
+
+.landing-page .component-16 {
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 15.6%;
+}
+
+.landing-page .FAB-extended-6 {
+  background-color: #5bcb5e !important;
+  display: flex !important;
+  height: 70px !important;
+  width: 15.6% !important;
+}
+
+.landing-page .text-wrapper-130 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 5%;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.landing-page .component-73-instance {
+  left: 15% !important;
+  position: absolute !important;
+  top: 2114px !important;
+}
+
+.landing-page .component-17 {
+  left: 2.4% !important;
+}
+
+.landing-page .overlap-50 {
+  background-color: #5bcb5e8f;
+  height: 210px;
+  left: 6%;
+  position: absolute;
+  top: 207px;
+  width: 85.6%;
+}
+
+.landing-page .text-wrapper-131 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 18%;
+  letter-spacing: 24.96px;
+  line-height: 180.5px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.landing-page .our-services-are {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 7%;
+  letter-spacing: 1.92px;
+  line-height: 96.5px;
+  position: absolute;
+  text-align: justify;
+  top: 463px;
+  width: 85.6%;
+}
+
+.landing-page .text-wrapper-132 {
+  letter-spacing: 0.92px;
+}
+
+.landing-page .text-wrapper-133 {
+  letter-spacing: 0.92px;
+  text-decoration: underline;
+}
+
+.landing-page .overlap-51 {
+  height: 193px;
+  left: 15%;
+  position: absolute;
+  top: 1848px;
+  width: 100%;
+}
+
+.landing-page .rectangle-50 {
+  background-color: #a3e2a5;
+  height: 169px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 70.7%;
+}
+
+.landing-page .text-wrapper-134 {
+  color: #000000;
+  font-family: "Roboto Serif", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 13%;
+  letter-spacing: 3.84px;
+  line-height: 193px;
+  position: absolute;
+  text-align: justify;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landing-page .component-18 {
+  left: 15% !important;
+  position: absolute !important;
+  top: 2434px !important;
+}
+
+.landing-page .component-19 {
+  left: 14% !important;
+}
+
+.landing-page .component-20 {
+  left: 15% !important;
+  position: absolute !important;
+  top: 2767px !important;
+}
+
+.landing-page .component-21 {
+  left: 7% !important;
+}
